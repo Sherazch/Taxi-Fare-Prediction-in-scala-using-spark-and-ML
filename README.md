@@ -1,4 +1,4 @@
-# NYC-Taxi-Fare-Prediction-in-scala-using-spark-machine-learning
+# Taxi-Fare-Prediction-in-scala-using-spark-machine-learning
 we are predicting the fare amount for a taxi rides in New York City given the pickup and dropoff locations.
 
 There were two data sets available, the one was for training the model and the other was for testing the models. But we are training and testing using the training data set only. The source for the data sets is Kaggle:
